@@ -1,0 +1,106 @@
+﻿@model VirtualGymWebPage.Models.Membresia
+
+@{
+    ViewBag.Title = "DatosMember";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br />
+
+<section id="content">
+    <div class="container content">
+        <!-- Service Blcoks -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-logo">
+                    <h3>Vuelvete<span class="color"> Premium</span></h3>
+                    <p>Ser un Usuario Premium en nuestra pagina tenie muchos veneficion como los siguetes</p>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Info Blcoks -->
+        <div class="row">
+            <div class="col-sm-4 info-blocks">
+                <i class="icon-info-blocks fa fa-bell-o"></i>
+                <div class="info-blocks-in">
+                    <h3>Comentarios en las rutinas</h3>
+                    <p>Como un usuario Premium podras dejar los comentarios que quieras en cualquier rutina</p>
+                </div>
+            </div>
+            <div class="col-sm-4 info-blocks">
+                <i class="icon-info-blocks fa fa-hdd-o"></i>
+                <div class="info-blocks-in">
+                    <h3>Mas Rutinas</h3>
+                    <p>Tendras acceso a todas las rutinas registradas</p>
+                </div>
+            </div>
+        </div>
+        <!-- End Info Blcoks -->
+        <!-- Info Blcoks -->
+        <!-- End Info Blcoks -->
+        <div class="row service-v1 margin-bottom-40">
+
+        </div>
+        <!-- End Service Blcoks -->
+
+    </div>
+</section>
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Datos de su membresia</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Descripcion de la Targeta:</h3>
+                    </div>
+                    <div class="col-md-6">
+                        <h3>@Model.Descripcion</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Cantidad de dias de la membresia:</h3>
+                    </div>
+                    <div class="col-md-6">
+                        <h3>@Model.Dias</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Fecha de Inicio:</h3>
+                       
+                    </div>
+                    <div class="col-md-6">
+                        <h3>@Model.FechaInicio</h3>
+                        
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                       
+                        <h3>Fecha de Finalizacion:</h3>
+                    </div>
+                    <div class="col-md-6">
+                       
+                        <h3>@Model.FechaFin</h3>
+                    </div>
+                </div>
+            </div>
+           
+
+
+
+
+        </div>
+    </div>
+</section>

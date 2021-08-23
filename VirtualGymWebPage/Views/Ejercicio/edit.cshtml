@@ -1,0 +1,60 @@
+﻿@model VirtualGymWebPage.Models.Ejercicio
+
+@{
+    ViewBag.Title = "edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>edit</h2>
+
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Registro de un Nuevo Ejercicio</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            <div class="container" style="background-color:black;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form action="/Ejercicio/insertEje" method="post">
+                            <br /><br />
+                            <div class="input-field">
+                                <input type="text" name="txtname" class="form-control" value="@Model.NombreEjercicio"
+                                       id="txtname" required
+                                       data-validation-required-message="Please enter your name" />
+                                <label for="name" class="">   Nombre del Ejercicio </label>
+                                <p class="help-block"></p>
+
+                            </div>
+
+
+                            <div class="input-field">
+                                <textarea rows="10" cols="100" required class="form-control materialize-textarea"
+                                          idation-required-message="Please enter your message" minlength="5"
+                                          data-validation-minlength-message="Min 5 characters"
+                                          maxlength="999" style="resize:none"></textarea>
+                                <label for="name" class="">  Descripcion del Ejercicio </label>
+                            </div>
+                            <div id="success"> </div> <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary waves-effect waves-dark pull-right">Registrar</button><br />
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <br />
+                        <br />
+                        <img class="img-responsive" src="~/Images/slides/fit1.jpeg" width="950" height="500" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<VirtualGymWebPage.Models.Rutina>
+
+@{
+    ViewBag.Title = "RutinasCalificadas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br /><br /><br />
+
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Rutinas Mejor Calificadas</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            @foreach (var item in Model)
+            {
+
+
+                <div class="col-md-4 md-margin-bottom-40">
+                    <div class="card small">
+                        <div class="card-image" style="background-color:red">
+                            <iframe width="352" height="315"
+                                    src="@item.Video">
+                            </iframe>
+                            <br /><br /><br />
+                            <span class="card-title">@item.NombreRutina</span>
+
+                        </div>
+                        <div class="card-content">
+                            <p>
+                                @item.Descripcion
+                            </p>
+                            <h3 style="color:black;">Calificacion de: @item.Promedio</h3>
+                            <h3 style="color:black;">No de Usuario que Calificarion: @item.Numero</h3>
+                            
+
+                            <br />
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <form action="~/Rutina/RutinaGet?id=@item.IdRutina" method="post">
+                                        <button type="submit" class="btn btn-danger">Ver rutina</button>
+                                    </form>
+                                </div>
+                                
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+
+        </div>
+    </div>
+</section>

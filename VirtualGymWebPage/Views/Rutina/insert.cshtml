@@ -1,0 +1,68 @@
+﻿@model VirtualGymWebPage.Models.Ejercicio
+
+@{
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>insert</h2>
+
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Registro de una Nueva Rutina @Model.NombreEjercicio</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+           
+            <div class="container" style="background-color:black;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form action="/Rutina/insertRutina" method="post" name="sentMessage" id="contactForm">
+                            <br /><br />
+                            <div class="input-field">
+                                <input type="text" name="txtname" class="form-control"
+                                       id="txtname" required
+                                       data-validation-required-message="Please enter your name" />
+                                <label for="name" class="">   Nombre de la Rutina </label>
+                                <p class="help-block"></p>
+
+                            </div>
+                            <div class="input-field">
+                                <input type="text" class="form-control" id="txtvideo" name="txtvideo" required
+                                       data-validation-required-message="Please enter your email" />
+                                <label for="name" class=""> Link del video </label>
+                            </div>
+
+                            <div class="input-field">
+                                <textarea rows="10" cols="100" name="txtdescri" required class="form-control materialize-textarea"
+                                          idation-required-message="Please enter your message" minlength="5"
+                                          data-validation-minlength-message="Min 5 characters"
+                                          maxlength="999" style="resize:none"></textarea>
+                                <label for="name" class="">  Descripcion de la Rutina  </label>
+                            </div>
+                            <input type="hidden" name="txtid" value="@Model.IdEjercicio" />
+                            <div id="success"> </div> <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary waves-effect waves-dark pull-right">Registrar</button><br />
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <br />
+                        <br />
+                        <img class="img-responsive" src="~/Images/slides/fit1.jpeg" width="950" height="500" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>
+
+
+

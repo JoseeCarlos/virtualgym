@@ -1,0 +1,87 @@
+﻿@model IEnumerable<VirtualGymWebPage.Models.Rutina>
+
+@{
+    int id;
+    ViewBag.Title = "listaRutinas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>listaRutinas</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Rutinas Registradas</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+           
+            @foreach (var item in Model)
+            {
+
+
+<div class="col-md-4 md-margin-bottom-40">
+    <div class="card small">
+        <div class="card-image" style="background-color:red">
+            <iframe width="352" height="315"
+                    src="@item.Video">
+            </iframe>
+            <br /><br /><br />
+            <span class="card-title">@item.NombreRutina</span>
+           
+        </div>
+        <div class="card-content">
+            <p>
+                @item.Descripcion
+            </p>
+
+            <br />
+            <div class="row">
+                <div class="col-md-6">
+                   
+                    <form action="/Rutina/editRutina?id=@item.IdRutina" method="post">
+                        <button type="submit" class="btn btn-danger">Editar</button>
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <form action="/Rutina/delete?id=@item.IdRutina" method="post">
+                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                    </form>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            }
+
+
+            <div class="col-md-4 md-margin-bottom-40">
+                <div class="card small">
+                    <div class="card-image" style="background-color:red">
+                        <img class="img-responsive" src="~/Images/slides/eje1.jpg" alt="">
+                        <span class="card-title">Agregar Nueva Rutina</span>
+                    </div>
+                    <div class="card-content">
+                      
+                        <form action="/Rutina/insert?id=@Session["idEjercicio"]" method="post">
+
+                            <p><button class="btn btn-danger">Agregar </button></p>
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

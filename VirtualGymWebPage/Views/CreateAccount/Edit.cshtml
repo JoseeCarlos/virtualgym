@@ -1,0 +1,69 @@
+﻿@model VirtualGymWebPage.Models.Usuario
+@{
+    ViewBag.Title = "editUsuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br />
+
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Edicion de una Rutina</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            <div class="container" style="background-color:black;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form action="/CreateAccount/EditForm" method="post" name="sentMessage" id="contactForm">
+                            <br /><br />
+                            <div class="input-field">
+                                <input type="text" name="txtNombre" class="form-control"
+                                       id="txtNombre" required value="@Model.Nombre"
+                                       data-validation-required-message="Please enter your name" />
+                                <label for="name" class="">   Nombre de la Rutina </label>
+                                <p class="help-block"></p>
+                            </div>
+                            <div class="input-field">
+                                <input type="text" name="txtPrimerApellido" class="form-control"
+                                       id="txtNombre" required value="@Model.PrimerApellido"
+                                       data-validation-required-message="Please enter your name" />
+                                <label for="name" class="">   Nombre de la Rutina </label>
+                                <p class="help-block"></p>
+                            </div>
+                            <div class="input-field">
+                                <input type="text" name="txtSegundoApellido" class="form-control"
+                                       id="txtNombre" required value="@Model.SegundoApellido"
+                                       data-validation-required-message="Please enter your name" />
+                                <label for="name" class="">Segundo Apellido</label>
+                                <p class="help-block"></p>
+                            </div>
+                            <div class="input-field">
+                                <input type="email" class="form-control" id="txtEmail" name="txtEmail" value="@Model.Email" required
+                                       data-validation-required-message="Please enter your email" />
+                                <label for="name" class=""> Link del video </label>
+                            </div>
+                            <input type="hidden" name="txtId" value="@Model.IdUsuario" />
+                            <div id="success"> </div> <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary waves-effect waves-dark pull-right">Modificar</button><br />
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <br />
+                        <br />
+                        <img class="img-responsive" src="~/Images/slides/fit1.jpeg" width="950" height="500" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>

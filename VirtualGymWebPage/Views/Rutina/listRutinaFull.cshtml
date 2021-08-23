@@ -1,0 +1,91 @@
+﻿@model VirtualGymWebPage.Models.EjercicioRutina
+
+@{
+    ViewBag.Title = "listRutinaFull";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<br /><br /><br />
+<section id="inner-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="pageTitle">Rutinas</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-logo">
+                    <h3>Galeria de rutinas</h3>
+                    <p>Contamos con las mejores rutinas segun tus objetivos</p>
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<section id="gallery-1" class="content-block section-wrapper gallery-1">
+    <div class="container">
+
+        <div class="editContent">
+            <ul class="filter">
+                <li class="active"><a href="#" data-filter="*">All</a></li>
+                @foreach (var item in Model.ejer)
+                {
+                    <li><a class="waves-effect waves-dark" href="#" data-filter=".@item.NombreEjercicio">@item.NombreEjercicio</a></li>
+                }
+
+
+            </ul>
+        </div>
+        <!-- /.gallery-filter -->
+
+        <div class="row">
+            <div id="isotope-gallery-container">
+                @foreach (var item in Model.ruti)
+                {
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper @item.Ejercicio.NombreEjercicio creative">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <iframe width="352" height="315"
+                                        src="@item.Video">
+                                </iframe>
+                                <div class="image-overlay"></div>
+                                <a href="img/works/1.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+
+                            </div>
+                            <div class="gallery-details">
+                                <div class="editContent">
+                                    <h5>@item.NombreRutina</h5>
+                                </div>
+                                <div class="editContent">
+                                    <p>@item.Descripcion</p>
+                                </div>
+                                <div>
+                                    <a href="~/Rutina/RutinaGet?id=@item.IdRutina" class="btn btn-danger" >Ver Rutinas</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+
+
+
+            </div>
+            <!-- /.isotope-gallery-container -->
+        </div>
+        <!-- /.row -->
+        <!-- /.container -->
+    </div>
+</section>
+

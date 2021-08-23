@@ -1,0 +1,62 @@
+﻿
+@{
+    
+}
+<br /><br /><br />
+<section id="inner-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="pageTitle">Contactenos</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content">
+    <section id="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="about-logo">
+                        <h3>Mensaje<span class="color"> privado</span></h3>
+                        <p> Como usuario premium queremos brindarte el mejor servicio, por favor envianos un correo electronico con todas las dudas o sugerencias que tengas</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <p> </p>
+
+                    <!-- Form itself -->
+                    <form action="/Chat/EnviarCorreoPrivado" method="post">
+                        <div class="input-field">
+                            <input type="text" name="txtAsunto" class="form-control" id="name" required data-validation-required-message="Please enter asunt" />
+                            <label for="name" class="">Asunto </label>
+                            <p class="help-block"></p>
+                        </div>
+                        <div class="input-field">
+                            <textarea rows="10" cols="100" name="txtMensaje" required class="form-control materialize-textarea"
+                                      idation-required-message="Please enter your message" minlength="5"
+                                      data-validation-minlength-message="Min 5 characters"
+                                      maxlength="999" style="resize:none"></textarea>
+                            <label for="name" class=""> Ingrese su mensaje </label>
+                        </div>
+                        <div class="input-field">
+                            <input type="email" name="txtEmail" class="form-control" id="email" required
+                                   data-validation-required-message="Please enter your email" />
+                            <label for="name" class="">   Ingrese su correo</label>
+                        </div>
+                        <div class="input-field">
+                            <input type="password" name="txtPassword" class="form-control" required data-validation-required-message="Please enter your password" />
+                            <label for="name" class="">   Ingrese su password </label>
+                        </div>
+                        <div id="success"> </div> <!-- For success/fail messages -->
+                        <button type="submit" class="btn btn-primary waves-effect waves-dark pull-right">Enviar</button><br />
+                    </form>
+                </div>
+
+            </div>
+        </div>
+
+    </section>

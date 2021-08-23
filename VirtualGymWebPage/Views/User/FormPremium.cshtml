@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewBag.Title = "FormPremium";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br />
+
+<section id="content">
+    <div class="container content">
+        <!-- Service Blcoks -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-logo">
+                    <h3>Vuelvete<span class="color"> Premium</span></h3>
+                    <p>Ser un Usuario Premium en nuestra pagina tenie muchos veneficion como los siguetes</p>
+                    
+                </div>
+            </div>
+        </div>
+
+        <!-- Info Blcoks -->
+        <div class="row">
+            <div class="col-sm-4 info-blocks">
+                <i class="icon-info-blocks fa fa-bell-o"></i>
+                <div class="info-blocks-in">
+                    <h3>Comentarios en las rutinas</h3>
+                    <p>Como un usuario Premium podras dejar los comentarios que quieras en cualquier rutina</p>
+                </div>
+            </div>
+            <div class="col-sm-4 info-blocks">
+                <i class="icon-info-blocks fa fa-hdd-o"></i>
+                <div class="info-blocks-in">
+                    <h3>Mas Rutinas</h3>
+                    <p>Tendras acceso a todas las rutinas registradas</p>
+                </div>
+            </div>
+        </div>
+        <!-- End Info Blcoks -->
+        <!-- Info Blcoks -->
+       
+        <!-- End Info Blcoks -->
+        <div class="row service-v1 margin-bottom-40">
+            
+        </div>
+        <!-- End Service Blcoks -->
+
+    </div>
+</section>
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Ingresa La Targeta de Membresia</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            <div class="container" style="background-color:black;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form method="post" action="~/User/FormPremium">
+                            <br /><br /><br /><br />
+                            <input type="text" name="txtcodigo" value="" width="100" height="50" minlength="1" maxlength="12" required/>
+                            <button type="submit" class="btn btn-danger">Verificar</button>
+                            <h2>@ViewBag.Message</h2>
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <br />
+                        <br />
+                        <img class="img-responsive" src="~/Images/slides/fit1.jpeg" width="950" height="500" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>
+

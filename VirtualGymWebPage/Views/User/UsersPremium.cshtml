@@ -1,0 +1,67 @@
+﻿@model IEnumerable<VirtualGymWebPage.Models.Usuario>
+
+@{
+    int num = 1;
+    ViewBag.Title = "UsersPremium";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br />
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Usuarios Premium Registrados</h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, <br />doloribus omnis minus ovident, doloribus omnis minus temporibus perferendis nesciunt..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+            <div class="container" style="background-color:black;">
+
+                <br /><br />
+                <form action="~/User/UserDisabled" method="post">
+
+                    <button type="submit" class="btn btn-danger">Usuarios_Deshabilitados</button>
+                </form>
+
+                <br /><br />
+
+                <table class="table">
+                    <tr>
+                        <td scope="col">#</td>
+                        <td scope="col">Nombre</td>
+                        <td scope="col">Primer Apellido</td>
+                        <td scope="col">Segundo Apellido</td>
+                        <td scope="col">Email</td>
+                        <td scope="col">Opciones</td>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td scope="row">@num</td>
+                            <td>@item.Nombre</td>
+                            <td>@item.PrimerApellido</td>
+                            <td>@item.SegundoApellido</td>
+                            <td>@item.Email</td>
+                            <td>
+                                <form action="~/User/deletePremium?id=@item.IdUsuario" method="post">
+                                    <input type="text" name="name" value="@item.IdUsuario" hidden />
+                                    <button type="submit" class="btn btn-danger btn-large">Deshabilitar</button>
+                                </form>
+
+                            </td>
+
+                        </tr>
+                        num++;
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

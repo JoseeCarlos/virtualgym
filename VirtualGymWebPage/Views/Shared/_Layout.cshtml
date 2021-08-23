@@ -1,0 +1,147 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/materialize.min.css" media="screen,projection" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery.fancybox.css" rel="stylesheet" />
+    <link href="~/Content/flexslider.css" rel="stylesheet" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    @*@Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")*@
+
+</head>
+<body>
+    <div id="wrapper" class="home-page">
+        <!-- start header -->
+        <header>
+            <div class="navbar navbar-default navbar-static-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><i class="icon-info-blocks material-icons"></i></a>
+                        @Html.ActionLink("Virtual Gym", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                    </div>
+
+                    <div class="navbar-collapse collapse ">
+
+                        <ul class="nav navbar-nav">
+                            @if (Session["nombreUsuario"] != null)
+                            {
+                                <li><a href="">@Session["nombreUsuario"]</a></li>
+                                
+                                if (Session["rol"].ToString() == "Cliente")
+                                {
+                                    <li><a class="waves-effect waves-dark" href="~/Home/Index">Inicio</a></li>
+                                    <li><a class="waves-effect waves-dark" href="~/Rutina/RutinasCalificadas">Rutinas Mejor Calificadas</a></li>
+                                    <li><a class="waves-effect waves-dark" href="~/Rutina/listRutinaFull">Rutinas</a></li>
+
+
+
+
+                                    if (int.Parse(Session["premium"].ToString()) == 1)
+                                    {
+                                        <li class="dropdown">
+                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">Opciones<b class="caret"></b></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="waves-effect waves-dark" href="~/Chat/OpenChat">Chat en linea</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/Chat/EnviarCorreo">Enviar correo</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/User/DatosMember">Datos Premium</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/CreateAccount/Edit?id=@Session["idUsuario"]">Editar Informacion</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/CreateAccount/Logout">Cerrar Session</a></li>
+                                            </ul>
+                                        </li>
+                                    }
+                                    if (int.Parse(Session["premium"].ToString()) == 0)
+                                    {
+                                        <li class="dropdown">
+                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">Opciones<b class="caret"></b></a>
+                                            <ul class="dropdown-menu">
+
+                                                <li><a class="waves-effect waves-dark" href="~/User/FormPremium">Volverse Premium</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/CreateAccount/Edit?id=@Session["idUsuario"]">Editar Informacion</a></li>
+                                                <li><a class="waves-effect waves-dark" href="~/CreateAccount/Logout">Cerrar Session</a></li>
+                                            </ul>
+                                        </li>
+                                    }
+
+                                }
+                                if (Session["rol"].ToString() == "Administrador")
+                                {
+                                    <li><a class="waves-effect waves-dark" href="~/Home/Index">Inicio</a></li>
+                                    <li><a class="waves-effect waves-dark" href="~/Rutina/listRutinaFull">Rutinas</a></li>
+                                    <li><a class="waves-effect waves-dark" href="~/Ejercicio/index">Ejercicios</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">Usuarios Registrados<b class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="waves-effect waves-dark" href="~/User/UsersFree">Usuarios Free</a></li>
+                                            <li><a class="waves-effect waves-dark" href="~/User/UsersPremium">Usuarios Premium</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">Opciones<b class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="waves-effect waves-dark" href="~/Chat/OpenChat">Chat en linea</a></li>
+                                            <li><a class="waves-effect waves-dark" href="~/CreateAccount/Logout">Cerrar Session</a></li>
+                                        </ul>
+                                    </li>
+
+                                }
+
+
+
+                                @*@Html.Partial("_LoginPartial")*@
+                            }
+                            else
+                            {
+                                <li><a class="waves-effect waves-dark" href="~/Home/index">Inicio</a></li>
+                                <li>@Html.ActionLink("Registrarse", "Index", "CreateAccount")</li>
+                                <li>@Html.ActionLink("Iniciar sesion", "Login", "CreateAccount")</li>
+                            }
+
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- end header -->
+
+        @RenderBody()
+
+        <footer>
+            <p style="text-align:center;">&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+        </footer>
+
+    </div>
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/jquery.easing.1.3.js"></script>
+    <script src="~/Scripts/materialize.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.fancybox.pack.js"></script>
+    <script src="~/Scripts/jquery.fancybox-media.js"></script>
+    <script src="~/Scripts/jquery.flexslider.js"></script>
+
+
+    <script src="~/Scripts/modernizr.custom.js"></script>
+    <script src="~/Scripts/jquery.isotope.min.js"></script>
+    <script src="~/Scripts/jquery.magnific-popup.min.js"></script>
+    <script src="~/Scripts/animate.js"></script>
+    <script src="~/Scripts/custom.js"></script>
+    @*@Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")*@
+
+    @*@Scripts.Render("~/bundles/jquery")*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

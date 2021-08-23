@@ -1,0 +1,288 @@
+﻿@model VirtualGymWebPage.Models.RutinaComentario
+
+
+@{ ViewBag.Title = "RutinaGet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string format = "MMMM-dd, yyyy - HH:mm";
+
+}
+
+<br /><br /><br />
+
+<style>
+    label {
+        display: inline-block;
+        padding: 0;
+        cursor: pointer;
+        vertical-align: middle;
+    }
+
+        label.reset {
+            font-size: 10px;
+            border: 1px solid #000;
+            border-radius: 5px;
+            margin: 10px 5px;
+            padding: 2px 3px;
+        }
+
+        label.star {
+            width: 30px;
+            height: 27px;
+        }
+
+
+    /* ocultamos los radiobuttons */
+
+    input[name=rating] {
+        display: none;
+    }
+
+
+    /* estrellas inmediatamente despues de un radiobutton van amarillas */
+
+    input[type=radio] + label.star svg path {
+        fill: #fe0
+    }
+
+
+    /* estrellas a la derecha del radiobutton checked van blanco */
+
+    input[type=radio]:checked ~ label.star svg path {
+        fill: #fff;
+    }
+</style>
+
+<section id="inner-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="pageTitle">Rutina</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-logo">
+                   
+                        <h2 style="text-align:center;"><span class="color" style="text-align:center;"> @Model.rutina.NombreRutina</span></h2>
+                        <iframe width="1120" height="700"
+                                src="@Model.rutina.Video">
+                        </iframe>
+                        <h2 style="text-align:center;"><span class="color" style="text-align:center;">Descripcion de la Rutina</span></h2>
+                        <h3 style="text-align:center">@Model.rutina.Descripcion</h3>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+
+            </div>
+            <div class="col-md-6">
+
+            </div>
+        </div>
+    </div>
+
+</section>
+<section id="content">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-logo">
+                    <h4>Deja Tu Calificacion</h4>
+                    <br />
+                    <!-- svg from https://es.wikipedia.org/wiki/Archivo:Star*.svg -->
+
+                    <input id=rating1 type=radio value=1 name=rating checked />
+
+                    <label class=star for=rating1>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
+                            <path stroke="#605a00" stroke-width="15"
+                                  d="M150 25l29 86h90l-72 54 26 86-73-51-73 51 26-86-72-54h90z" />
+                        </svg>
+                    </label>
+                    <input id=rating2 type=radio value=2 name=rating />
+
+                    <label class=star for=rating2>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
+                            <path stroke="#605a00" stroke-width="15"
+                                  d="M150 25l29 86h90l-72 54 26 86-73-51-73 51 26-86-72-54h90z" />
+                        </svg>
+                    </label>
+                    <input id=rating3 type=radio value=3 name=rating />
+
+                    <label class="star" for=rating3>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
+                            <path stroke="#605a00" stroke-width="15"
+                                  d="M150 25l29 86h90l-72 54 26 86-73-51-73 51 26-86-72-54h90z" />
+                        </svg>
+                    </label>
+                    <input id=rating4 type=radio value=4 name=rating />
+
+                    <label class="star" for=rating4>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
+                            <path stroke="#605a00" stroke-width="15"
+                                  d="M150 25l29 86h90l-72 54 26 86-73-51-73 51 26-86-72-54h90z" />
+                        </svg>
+                    </label>
+                    <input id=rating5 type=radio value=5 name=rating />
+
+                    <label class="star" for=rating5>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
+                            <path stroke="#605a00" stroke-width="15"
+                                  d="M150 25l29 86h90l-72 54 26 86-73-51-73 51 26-86-72-54h90z" />
+                        </svg>
+                    </label>
+                    <input id=rating type=radio value=5 name=rating />
+                    <br />
+                    <!-- por último el label del rating 0 ( sin calificar ) -->
+                    <form action="~/Calificacion/insert" method="post">
+                        <input type="text" id="texto" name="txtcalificacion" value="1" required hidden />
+
+                        <input type="text" id="texto" name="txtidrutina" value="@Model.rutina.IdRutina" required hidden />
+
+                        <button type="submit" class="btn btn-danger">Calificar</button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+        @if (Session["premium"] != null)
+        {
+            if (int.Parse(Session["premium"].ToString()) == 1)
+            {
+
+
+                <section class="dishes">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="aligncenter"><h2 class="aligncenter">Otras Rutinas</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                                <br />
+                            </div>
+                        </div>
+
+                        <div class="row service-v1 margin-bottom-40">
+
+                            @foreach (var item in Model.rutList)
+                            {
+
+
+                                <div class="col-md-4 md-margin-bottom-40">
+                                    <div class="card small">
+                                        <div class="card-image" style="background-color:red">
+                                            <iframe width="352" height="315"
+                                                    src="@item.Video">
+                                            </iframe>
+                                            <br /><br /><br />
+                                            <span class="card-title">@item.NombreRutina</span>
+
+                                        </div>
+                                        <div class="card-content">
+                                            <p>
+                                                @item.Descripcion
+                                            </p>
+
+                                            <br />
+                                            <div class="row">
+                                                <div class="col-md-6">
+
+                                                    <div>
+                                                        <a href="~/Rutina/RutinaGet?id=@item.IdRutina" class="btn btn-danger">Ver Rutinas</a>
+
+                                                    </div>
+                                                </div>
+                                                
+
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+
+
+                            
+                        </div>
+                    </div>
+                </section>
+
+
+            }
+        }
+        
+        <div class="row">
+            <div id="comments" class="coments-area">
+                <h3 class="comments-tittle">Comentarios</h3>
+                <div id="comment-list" class="media">
+                    @foreach (var item2 in Model.comList)
+                    {
+                        <div id="" class="media-well">
+
+                            <div class="media-body">
+                                <div class="clearfix"></div>
+                                <div class="comment-body">
+                                    <p>@item2.Descripcion</p>
+
+
+
+                                    @if (Session["rol"].ToString() == "Administrador")
+                                    {
+                                        <div class="comment-meta">
+                                            <form action="~/Comentario/Eliminar" method="post">
+                                                <input type="hidden" name="comentario" value="@item2.IdComentario" />
+                                                <input type="submit" class="btn btn-success" value="Eliminar" />
+                                            </form>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+                @if (int.Parse(Session["premium"].ToString()) == 1)
+                {
+                    <div class="row" style="">
+                        <form id="contactform" class="" action="/Comentario/InsertComentario" name="contactform" method="post">
+                            <div class="input-field">
+
+                                <input type="hidden" name="txtFecha" value="@DateTime.Now.ToString(format)" />
+                                <input type="hidden" name="IdRutina" value="@Model.rutina.IdRutina" />
+                                <blockquote><textarea name="txtComentario" rows="3" cols="100" class="form-control" minlength="5" maxlength="150" placeholder="Escriba su comentario"></textarea></blockquote>
+
+                            </div>
+                            <input type="submit" class="btn btn-primary waves-effect waves-dark pull-right" value="Enviar" /><br />
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+</section>
+<script>
+    // para todos los radiobutton rating agregar un on change
+    const changeRating = document.querySelectorAll('input[name=rating]');
+    changeRating.forEach((radio) => {
+        radio.addEventListener('change', getRating);
+    });
+
+    // buscar el radiobutton checked y armar el texto con el valor ( 0 - 5 )
+    function getRating() {
+        let estrellas = document.querySelector('input[name=rating]:checked').value;
+        document.getElementById("texto").value = (
+            0 < estrellas ?
+                estrellas + (1 < estrellas ? "" : "") :
+                "sin calificar"
+        );
+
+        // opcionalmente agregar un ajax para guardar el rating
+    }
+</script>

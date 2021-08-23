@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Chat en linea";
+    
+}
+<br /><br /><br />
+<section id="inner-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="pageTitle">Chat vip</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content"
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-6">
+                <h3>Escriba su mensaje </h3>
+                <textarea rows="3" class="form-control" id="message"></textarea>
+            </div>
+            <div class="col-lg-6">
+                <h3>Chat </h3>
+                <p id="discussion"></p>
+            </div>
+        </div>
+        <br />
+
+        <div class="col-lg-6">
+            <input type="button" class="btn btn-success" id="sendmessagechat" value="Comentar" />
+        </div>
+        
+        </div>
+        <input type="hidden" id="displayname" />
+
+</section>
+
+    
+   
+
+
+    @section scripts{
+        <script src="~/Scripts/jquery.signalR-2.4.1.js"></script>
+        <script src="/signalr/hubs"></script>
+        <script type="text/javascript">
+        $(function () {
+            var chat = $.connection.chatHub;
+            chat.client.sendChat = function (name, message) {
+                var divName = $("<div />").text(name).html();
+                
+                var divMessage = $("<div />").text(message).html();
+
+                $("#discussion").append("<li><strong>" + divName + "<strong>: " + divMessage + "</li>");
+            };
+
+
+            var nameOwner = '@Session["nombre"]';
+            $("#displayname").val(nameOwner);
+
+            $("#message").focus();
+
+            $.connection.hub.start().done(function () {
+                $("#sendmessagechat").click(function () {
+                    var nameOwner = $("#displayname").val();
+                    var messageText = $("#message").val();
+
+                    chat.server.send(nameOwner, messageText);
+
+                    $("#message").val("").focus();
+                })
+            })
+        })
+        </script>
+    }
+

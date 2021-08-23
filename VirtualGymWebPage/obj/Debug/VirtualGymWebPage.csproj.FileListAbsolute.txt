@@ -1,0 +1,658 @@
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll.config
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.pdb
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe.config
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.rsp
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe.config
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.rsp
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.AppContext.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Console.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Http.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe.config
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.rsp
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Owin.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\WebGrease.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.pdb
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Razor.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CoreCompileInputs.cache
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CopyComplete
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.pdb
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Images\slides\1.jpg
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Images\slides\1.jpg
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll.config
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.pdb
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe.config
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.rsp
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe.config
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.rsp
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.AppContext.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Console.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Http.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe.config
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.rsp
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\WebGrease.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.pdb
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Razor.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.dll
+C:\Users\jose\Desktop\proyecto web 3\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.pdb
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.pdb
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Images\slides\1.jpg
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll.config
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.pdb
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe.config
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.rsp
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe.config
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.rsp
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.AppContext.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Console.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Http.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe.config
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.rsp
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Owin.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\WebGrease.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.pdb
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Razor.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto web 3\master\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csprojAssemblyReference.cache
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csprojAssemblyReference.cache
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CoreCompileInputs.cache
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.pdb
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Images\slides\1.jpg
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll.config
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.pdb
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe.config
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.rsp
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe.config
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.rsp
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.AppContext.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Console.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Http.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe.config
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.rsp
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Owin.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\WebGrease.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.pdb
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Razor.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CopyComplete
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Fear\source\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\jose\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Images\slides\1.jpg
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll.config
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\VirtualGymWebPage.pdb
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.exe.config
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csc.rsp
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.exe.config
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\csi.rsp
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.AppContext.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Console.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Http.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.exe.config
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\vbc.rsp
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Owin.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\WebGrease.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Helpers.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Mvc.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Optimization.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.Razor.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Newtonsoft.Json.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Antlr3.Runtime.pdb
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\EntityFramework.SqlServer.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.Razor.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CoreCompileInputs.cache
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.CopyComplete
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.dll
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.pdb
+C:\Users\jose\virtualGym_ColqueJoseCarlos_MiguelAngelTerrazas\virtualgymwebpage\VirtualGymWebPage\obj\Debug\VirtualGymWebPage.csproj.AssemblyReference.cache

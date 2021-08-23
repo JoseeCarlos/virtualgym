@@ -1,0 +1,71 @@
+﻿@model IEnumerable<VirtualGymWebPage.Models.Ejercicio>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br /><br /><br />
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Ejercicios Registrados</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 md-margin-bottom-40">
+                    <div class="card small">
+                        <div class="card-image" style="background-color:red">
+                            <img class="img-responsive" src="~/Images/slides/eje1.jpg" alt="">
+                            <span class="card-title">@item.NombreEjercicio</span>
+                        </div>
+                        <div class="card-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                            </p>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                            </p>
+                            <br />
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <form action="/Rutina/listaRutinas?id=@item.IdEjercicio" method="post">
+                                        <button type="submit" class="btn btn-danger">Ver Rutinas</button>
+                                    </form>
+                                </div>
+                                
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+
+
+            <div class="col-md-4 md-margin-bottom-40">
+                <div class="card small">
+                    <div class="card-image" style="background-color:red">
+                        <img class="img-responsive" src="~/Images/slides/eje1.jpg" alt="">
+                        <span class="card-title">Agregar Nuevo Ejercicio</span>
+                    </div>
+                    <div class="card-content">
+                        <form action="/Ejercicio/insertEjercicio" method="post">
+                            <p><button class="btn btn-danger">Agregar</button></p>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,102 @@
+﻿
+@{
+
+}
+
+<br /><br /><br />
+<section class="dishes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter"><h2 class="aligncenter">Recuperar contraseña</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+                <br />
+            </div>
+        </div>
+
+        <div class="row service-v1 margin-bottom-40">
+
+            <div class="container" style="background-color:black;">
+                <div class="row">
+                    <div class="col-md-6">
+                        @if (ViewBag.Confirmacion == "codigo")
+                        {
+                            <h1>Ingresa el codigo de confirmacion</h1>
+                            <form method="post" action="/CreateAccount/CodeConfirm">
+                                <div class="input-field">
+
+                                    <input type="hidden" name="id" value="@ViewBag.id" />
+                                    <input type="hidden" name="codigo" value="@ViewBag.codigo" />
+                                    <input type="text" name="txtCodigo" class="form-control" id="usuario" required data-validation-requred-message="Ingrese un codigo valido" />
+                                    <label for="user">Codigo de confirmacion</label>
+                                    <p class="help-block"></p>
+                                    <div class="input-field">
+                                        <input type="submit" class="btn btn-primary waves-effect waves-dark pull-right" value="Confirmar" />
+                                    </div>
+                                </div>
+                                <h1>@ViewBag.Message</h1>
+                            </form>
+
+                        }
+                        else
+                        {
+                            if (ViewBag.Confirmacion == "password")
+                            {
+                                <h1>Introduzca su nueva contraseña</h1>
+                                <form method="post" action="/CreateAccount/PasswordUpdate">
+
+                                    <div class="input-field">
+                                        <input type="password" name="txtPassword" class="form-control" id="usuario" required data-validation-requred-message="Ingrese una contraseña valida" />
+                                        <label for="user">Contraseña</label>
+                                        <p class="help-block"></p>
+                                    </div>
+                                    <div class="input-field">
+                                        
+                                        <input type="hidden" name="id" value="@ViewBag.id" />
+                                        <input type="password" name="txtPasswordR" class="form-control" id="usuario" required data-validation-requred-message="Ingrese una contraseña valida" />
+                                        <label for="user">Repita su Contraseña</label>
+                                        <p class="help-block"></p>
+                                        <div class="input-field">
+                                            <input type="submit" class="btn btn-primary waves-effect waves-dark pull-right" value="Confirmar" />
+                                        </div>
+                                    </div>
+                                    <h1>@ViewBag.Message</h1>
+                                </form>
+
+                            }
+                            else
+                            {
+                            <h1>Introduce tu nombre de usuario para buscar tu cuenta</h1>
+                            <form method="post" action="/CreateAccount/RecoverAccount">
+
+                                <div class="input-field">
+                                    <input type="text" name="txtUsuario" class="form-control" id="usuario" required data-validation-requred-message="Ingrese un usuario valido" />
+                                    <label for="user">Nombre de usuario</label>
+                                    <p class="help-block"></p>
+                                    <div class="input-field">
+                                        <input type="submit" class="btn btn-primary waves-effect waves-dark pull-right" value="Buscar" />
+                                    </div>
+                                </div>
+                                <h1>@ViewBag.Message</h1>
+                                <p>@Html.ActionLink("Registrarse como usuario nuevo", "Index")</p>
+                                <p>@Html.ActionLink("Olvido su contraseña?", "Recover")</p>
+                            </form>
+                                }
+
+                            }
+
+                    </div>
+                    <div class="col-md-6">
+                        <br />
+                        <br />
+                        <img class="img-responsive" src="~/Images/slides/fit1.jpeg" width="950" height="500" alt="">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>
+

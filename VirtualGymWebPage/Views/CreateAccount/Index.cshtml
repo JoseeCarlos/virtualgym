@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Crear cuenta";
+}
+
+
+<br /><br /><br />
+<section class="dishes">
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="aligncenter"><h2 class="aligncenter">Creacion de Cuenta</h2>La motivación es lo que te pone en marcha, <br /> y el hábito es lo que hace que sigas..</div>
+            <br />
+        </div>
+    </div>
+
+    <div class="row service-v1 margin-bottom-40">
+        <div class="container" style="background-color:black;">
+            <div class="row">
+                <div class="col-md-6">
+                    <form method="post" action="/CreateAccount/Create">
+                        <div class="input-field">
+                            <input type="text" name="txtNombre" class="form-control" id="nombre" required data-validation-requred-message="Ingrese su nombre" />
+                            <label for="nombre">Nombre</label>
+                            <p class="help-block"></p>
+                        </div>
+                        <div class="input-field">
+                            <input type="text" name="txtPrimerAp" class="form-control" id="ap1" required data-validation-requred-message="Ingrese su apellido paterno" />
+                            <label for="ap1">Primer apellido</label>
+                            <p class="help-block"></p>
+                        </div>
+                        <div class="input-field">
+                            <input type="text" name="txtSegundoAp" class="form-control" id="ap2" required data-validation-requred-message="Ingrese su apellido materno" />
+                            <label for="ap2">Segundo apellido</label>
+                            <p class="help-block"></p>
+                        </div>
+                        <div class="input-field">
+                            <input type="email" name="txtEmail" class="form-control" id="email" required data-validation-requred-message="Ingrese su correo" />
+                            <label for="email">Correo electronico</label>
+                            <p class="help-block"></p>
+                        </div>
+
+                        <div class="input-field">
+                            <input type="submit" class="btn btn-primary waves-effect waves-dark pull-right" value="Registrar" />
+                        </div>
+                        <h2>@ViewBag.Message</h2>
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <br /><br />
+                    <img class="img-responsive" src="~/Images/slides/fit4.jpg" width="3150" height="700" alt="">
+                </div>
+                </div>
+            </div>
+        </div>   
+</div>
+</section>
+
+

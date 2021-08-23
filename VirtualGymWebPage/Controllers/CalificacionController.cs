@@ -17,7 +17,7 @@ namespace VirtualGymWebPage.Controllers
 
         public ActionResult insert(FormCollection collection)
         {
-            //knkdsfnd
+            //todo esto es una mejora 
             Calificacion_Model model = new Calificacion_Model();
             Calificacion calificacion = new Calificacion(int.Parse(collection["txtidrutina"].ToString()),int.Parse(Session["idUsuario"].ToString()),int.Parse(collection["txtcalificacion"].ToString()));
             model.insert(calificacion);

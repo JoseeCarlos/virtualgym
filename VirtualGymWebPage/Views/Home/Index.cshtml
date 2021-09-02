@@ -109,11 +109,21 @@
             <h3 class="comments-tittle">Comentarios</h3>
             @foreach (var item in Model)
             {
-                <div id="comment-list" class="media">
+                <div id="comment-list" class="media" style="margin:70px;border:1px solid #ffffff">
                     <div id="" class="media-well">
 
                         <div class="media-body">
-                            
+                            @if (item.IdUsuario != 0)
+                            {
+                                <label>@item.IdUsuario</label>
+
+                            }
+                            else {
+
+                                <label>Anonimo</label>
+
+                            }
+
                             <div class="muted comment-meta commentmetadata pull-right">
                                 <small><em>@item.Fecha</em></small>
                             </div>
@@ -131,7 +141,7 @@
             }
 
         </div>
-        @if (Session!=null)
+        @if (Session != null)
         {
             <!-- post-comments -->
             <div class="row" style="">
@@ -145,7 +155,7 @@
                 </form>
             </div>
         }
-        </div>
+    </div>
 </section>
 
 
